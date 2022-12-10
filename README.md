@@ -16,4 +16,4 @@ This repository contains programs written using low-level languages, mainly C. T
 </ul>
 
 ## Acknowledgements :pray:
-These works are part of the ALX SE curriculum. ALX is a program that prepares young people with the technical and work-ready skills for a global career as a Full-Stack Developer using project-based peer learning.For more information, <a href= "https://www.alxafrica.com/"> follow this link. </a>
+These works are part of the ALX SE curriculum. ALX is a program that prepares young people with the technical and work-ready skills for a global career as a Full-Stack Developer using project-based peer learning.For more information, follow this <a href= "https://www.alxafrica.com/">link. </a>
