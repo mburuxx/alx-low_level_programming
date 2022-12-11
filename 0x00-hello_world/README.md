@@ -1,7 +1,7 @@
 # Hello, World :earth_africa:
 
 ## Tasks :page_facing_up:
-In this project, I learned about compilation using `gcc`, entry points using `main`, and text-printing functions in C.
+In this project, I learned about compilation using `gcc`, entry points using `main`, and `text-printing` functions in C.
 
 <ul>
 <li> <a href="https://github.com/mburuxx/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor"> 0-preprocessor </a> - a script that runs through the <code>preprocessor</code> and save the result into another file </li>
