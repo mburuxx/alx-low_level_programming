@@ -1,4 +1,4 @@
-#include "loops.h"
+#include "main.h"
 /**
  * main - Print a string using putchar
  *
