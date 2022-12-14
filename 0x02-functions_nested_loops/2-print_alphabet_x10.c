@@ -2,9 +2,6 @@
 
 /**
  * print_alphabet_x10() - Prints the alphabet ten times
- * @c: The character to be checked
- *
- * Return: 0 (Success)
  */
 
 void print_alphabet_x10(void)
