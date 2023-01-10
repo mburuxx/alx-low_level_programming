@@ -2,8 +2,8 @@
 
 /**
  * main - Prints the number of arguments passed
- * argc: number of arguments
- * argv: character array pointing to the arguments
+ * @argc: number of arguments
+ * @argv: character array pointing to the arguments
  *
  * Return: Always (0)
  */
