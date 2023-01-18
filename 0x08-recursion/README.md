@@ -1,7 +1,7 @@
 # Recursion
 The project aims to learn about recursion and how to implement it in C language.
 
-## Files
+## Files 
 All of the following files are programs written in C:
 | Filename | Description |
 | -------- | ----------- |
