@@ -1,7 +1,7 @@
 # Static Libraries
 Project aims to teach about static libraries in C language.
 
-## Files
+## Files 
 All of the files are scripts and programs written in C:
 | Filename | Description |
 | -------- | ----------- |
