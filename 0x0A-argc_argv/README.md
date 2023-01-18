@@ -1,7 +1,7 @@
 # Argc, argv
 Project aims to teach about how to use arguments passed to a program in C language.
 
-## Files
+## Files 
 All of the following files are programs written in C:
 | Filename | Description |
 | -------- | ----------- |
