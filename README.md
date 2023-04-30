@@ -23,6 +23,7 @@ This repository contains programs written using low-level languages, mainly C. T
 * [0x0D-preprocessor](0x0D-preprocessor)
 * [0x0E-structures_typedef](0x0E-structures_typedef)
 * [0x0F-function_pointers](0x0F-function_pointers)
+* [0x1A-hash_tables](0x1A-hash_tables)
 
 
 ## Author :black_nib:
