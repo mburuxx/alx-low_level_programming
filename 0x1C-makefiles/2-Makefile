@@ -7,4 +7,3 @@ NAME= school
 # Target variable
 all: $(OBJ)
 	$(CC) $(OBJ) -o $(NAME)
-
