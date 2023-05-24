@@ -1,0 +1,6 @@
+# Default target
+all: school
+
+# Rule for building school
+school: main.c
+	gcc main.c school.c -o school
