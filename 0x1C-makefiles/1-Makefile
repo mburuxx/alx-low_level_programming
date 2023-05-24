@@ -1,0 +1,7 @@
+# Makefile variables
+CC = gcc
+SRC = main.c school.c
+
+# Default target
+all:
+	$(CC) $(SRC) -o school
