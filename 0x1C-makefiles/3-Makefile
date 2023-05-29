@@ -1,15 +1,13 @@
 # Makefile variables
 CC=gcc
 SRC=main.c school.c
-OBJ=$(SRC:%.c = %.o)
+OBJ=$(SRC:%.c=%.o)
 NAME=school
-RM=rm-f
+RM=rm -f
 
-# Rule to compile object files
 all: $(OBJ)
 	$(CC) $(OBJ) -o $(NAME)
 
-# Rule to clean files
 clean:
 	$(RM) *~$(NAME)
 
